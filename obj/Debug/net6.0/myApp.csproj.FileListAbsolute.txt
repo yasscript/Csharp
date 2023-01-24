@@ -1,0 +1,15 @@
+/media/zoro/E/CodeC#/myApp/bin/Debug/net6.0/myApp
+/media/zoro/E/CodeC#/myApp/bin/Debug/net6.0/myApp.deps.json
+/media/zoro/E/CodeC#/myApp/bin/Debug/net6.0/myApp.runtimeconfig.json
+/media/zoro/E/CodeC#/myApp/bin/Debug/net6.0/myApp.dll
+/media/zoro/E/CodeC#/myApp/bin/Debug/net6.0/myApp.pdb
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.csproj.AssemblyReference.cache
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.AssemblyInfoInputs.cache
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.AssemblyInfo.cs
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.csproj.CoreCompileInputs.cache
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.dll
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/refint/myApp.dll
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.pdb
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/myApp.genruntimeconfig.cache
+/media/zoro/E/CodeC#/myApp/obj/Debug/net6.0/ref/myApp.dll
